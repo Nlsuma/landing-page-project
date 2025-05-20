@@ -13,8 +13,8 @@ body {
     color: white;
     display: flex;
     justify-content: space-between;
-    padding-left: 400px;
-    padding-right: 400px;
+    padding-left: 130px;
+    padding-right: 130px;
     align-items: center;
 }
 .header-left {
@@ -23,7 +23,7 @@ body {
 }
 .header-right {
     display: flex;
-    gap: 16px;
+    gap: 10px;
     font-size: 18px;
     color: #b7b8b9;
 }
@@ -38,8 +38,8 @@ body {
     justify-content: space-between;
     align-items: center;
     color: white;
-    padding-left: 400px;
-    padding-right: 400px;
+    padding-left: 130px;
+    padding-right: 130px;
     padding-top: 50px;
     padding-bottom: 80px;
     flex: 1;
@@ -75,21 +75,26 @@ h1 {
     background-color: rgb(142, 142, 143);
     padding-left: 150px;
     padding-right: 150px;
-    padding-top: 60px;
-    padding-bottom: 90px;
+    padding-top: 100px;
+    padding-bottom: 100px;
     margin-left: 40px;
-    margin-top: 60px;
+    margin-top: 40px;
     color: black; 
     
 }
 
-.block-2a, .block-2b, .block-2b1, .block-2c {
+.image-place-holder{
+    width: 250px;
+
+}
+
+.block-2a, .block-2b, .block-2b1 {
     display: flex;
     flex: 1;
     justify-content: center;
     align-items: center;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 300px;
+    padding-right: 300px;
 
 }
 
@@ -165,10 +170,10 @@ blockquote cite {
     border-radius: 20px;
     color: white;
     background-color: #3882f6;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    margin-left: 350px;
-    margin-right: 350px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 180px;
+    margin-right: 180px;
     margin-bottom: 150px;
     margin-top: 150px;
 }
